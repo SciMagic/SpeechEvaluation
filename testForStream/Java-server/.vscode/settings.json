@@ -1,0 +1,4 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "python.linting.pylintEnabled": true
+}
