@@ -1,1 +1,7 @@
 # SpeechEvaluation
+
+基于CMU-Sphinx的口语评测系统
+
+testRecognizer.java示例了本地音频文件与评测语句的测验
+
+testSpeech.java示例了实时数据流的测验，先开启testSpeech端的简易server,等待testForStream文件下的客户端连接，发送音频数据流，实时测评
